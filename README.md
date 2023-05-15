@@ -62,27 +62,27 @@
 <br/>
 
 
-#### Q7) &ensp; Write a Prolog program to implement max(X, Y, Max) so that Max is the maximum of two numbers X and Y.
-- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-07/max.pl) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-07/max.jpg) 🖥
+#### Q7) &ensp; Write a Prolog program to implement maxlist(List,Max) so that Max is the greatest number in the list of numbers List using cut predicate.
+- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-07/maxlist.pl) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-07/maxlist.jpg) 🖥
 <br/>
 
 
-#### Q8) &ensp; Write a Prolog program to implement GCD of two numbers.
-- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-08/gcd.pl) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-08/gcd.jpg) 🖥
+#### Q8) &ensp; Write a Prolog program to implement sumlist(List,Sum) so that Sum is the sum of a given list of numbers List.
+- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-08/sumlist.pl) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-08/sumlist.jpg) 🖥
 <br/>
 
 
-#### Q9) &ensp; Write a Prolog program to implement maxlist(List,Max) so that Max is the greatest number in the list of numbers List using cut predicate.
-- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-09/maxlist.pl) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-09/maxlist.jpg) 🖥
+#### Q9) &ensp; Write a Prolog program to implement reverse(List,ReversedList) that reverses a given list.
+- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-09/reverse.pl) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-09/reverse.jpg) 🖥
 <br/>
 
 
-#### Q10) &ensp; Write a Prolog program to implement sumlist(List,Sum) so that Sum is the sum of a given list of numbers List.
-- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-10/sumlist.pl) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-10/sumlist.jpg) 🖥
+#### Q10) &ensp; Write a Prolog program to implement GCD of two numbers.
+- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-10/gcd.pl) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/Artificial-Intelligence-Using-Prolog-6th-Sem/blob/main/Solutions/Q-10/gcd.jpg) 🖥
 <br/>
 
 
@@ -136,3 +136,4 @@
 <hr/>
 </h5>
 <h4 align="center">Made by <a href="https://twitter.com/imKaustav_">Kaustav Purkayastha</a>😉</h4>
+
